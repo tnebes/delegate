@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using delegate.Models;
+using delego.Models;
 
-namespace delegate.Controllers;
+namespace delego.Controllers;
 
 public class HomeController : Controller
 {

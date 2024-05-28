@@ -1,4 +1,4 @@
-namespace delegate.Models;
+namespace delego.Models;
 
 public class ErrorViewModel
 {
